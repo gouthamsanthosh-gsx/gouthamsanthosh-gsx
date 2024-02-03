@@ -1,3 +1,3 @@
 goutham santhosh
-Student CS - Btech
-Mail gouthamsanthosh.xyz@gmail.com
+\nStudent CS - Btech
+\nMail gouthamsanthosh.xyz@gmail.com
