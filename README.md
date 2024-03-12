@@ -1,5 +1,4 @@
-goutham santhosh
-
-Student CS - Btech
-
-Mail - gouthamsanthosh.xyz@gmail.com
+# gsX
+## goutham santhosh
+- Computer science student
+- Mail: gouthamsanthosh.xyz@gmail.com
